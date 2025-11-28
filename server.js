@@ -2,7 +2,7 @@
 const http = require('http');
 
 // Configuramos el puerto y el host
-const port = 3000;
+const port = 8000;
 const hostname = '127.0.0.1'; // 'localhost'
 
 // El contenido HTML que queremos mostrar al usuario
